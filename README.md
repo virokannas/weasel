@@ -1,5 +1,5 @@
-# weasel
-A weasel simulator.
+# Weasel - A weasel simulator.
+![Weasel](weasel.jpg)
 
 ## Why?
 Because.
